@@ -3,5 +3,3 @@ install:
 
 run:
 	flask run
-lint:
-	pylint app.py
